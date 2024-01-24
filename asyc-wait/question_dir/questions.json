@@ -1,0 +1,18 @@
+[
+    {
+        "text":"What batch of SVNA you are in?",
+        "options": [2023, 2024, 2019],
+        "corAnsIndex": 1
+
+    },
+    {
+        "text":"Are you open to relocation?",
+        "options": ["May be", "May be not", "Not at all"],
+        "corAnsIndex": 2
+    },
+    {
+        "text":"Do you enjoy working remotely?",
+        "options": ["Yes", "No", "Hybrid"],
+        "corAnsIndex": 2
+    }
+]
